@@ -1,4 +1,4 @@
-# Eyechecker
+# Eyechecker ( Always Be Improving XD )
 ![EyeChecker](https://raw.githubusercontent.com/yuchenlichuck/EyeChecker/master/icon.ico)
 ## What is Eyechecker?
 Image segmentation of corneal ulceration using machine learning methods
@@ -27,6 +27,10 @@ Image segmentation of corneal ulceration using machine learning methods
 *	接着根据所得类簇，更新类簇中心；然后继续计算各个数据对象到聚类中心的距离，把数据对象划分至距离其最近的聚类中心所在类簇中；
 *	接着根据所得类簇，继续更新类簇中心；……一直迭代，直到达到最大迭代次数T，或者两次迭代J的差值小于某一阈值时，迭代终止，得到最终聚类结果。
 
-
-
+## About Author
+* Li Yuchen
+* Majoring in Computer Science and engineering
+* Sophomore, Southern University of Science and Technology (SUSTech), living in Shenzhen
+* Lab Member, doing Computer Vision & Medical Image Processing Using Deep Learning methods
+* Email: liyc@mail.com
 
