@@ -1,0 +1,1 @@
+C:\MinGW\bin\g++.exe -g   -Wl,@CMakeFiles\EyeChecker.dir\objects1.rsp  -o EyeChecker.exe -Wl,--out-implib,libEyeChecker.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
