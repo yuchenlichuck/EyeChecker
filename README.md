@@ -27,6 +27,7 @@ Image segmentation of corneal ulceration using machine learning methods.
 *	接着根据所得类簇，继续更新类簇中心；……一直迭代，直到达到最大迭代次数T，或者两次迭代J的差值小于某一阈值时，迭代终止，得到最终聚类结果。
 
 ## About Author
+
 > * Li Yuchen
 > * Email: liyc@mail.com
 > * Majoring in Computer Science and Engineering
