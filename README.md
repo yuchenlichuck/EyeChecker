@@ -1,4 +1,4 @@
-# Eyechecker ( Always Be Improving XD )
+# Eyechecker ( Always Be Improved XD )
 ![EyeChecker](https://raw.githubusercontent.com/yuchenlichuck/EyeChecker/master/icon.ico)
 ## What is Eyechecker?
 Image segmentation of corneal ulceration using machine learning methods.
