@@ -12,6 +12,7 @@ Image segmentation of corneal ulceration using machine learning methods.
 
 ![EyeChecker](https://github.com/yuchenlichuck/EyeChecker/blob/master/1a7.jpg)
 
+
 * The segmentation result after 2 times `k-means` clustering method with black background. 
 
 ![EyeChecker](https://github.com/yuchenlichuck/EyeChecker/blob/master/1a221.jpg)
