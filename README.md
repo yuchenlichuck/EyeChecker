@@ -4,6 +4,10 @@
 Image segmentation of corneal ulceration using machine learning methods.
 ## Some images of the segmentation of corneal ulceration result.
 
+
+
+
+
 * The original images
 
 ![original](https://github.com/yuchenlichuck/EyeChecker/blob/master/1a.jpg)
