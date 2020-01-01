@@ -1,4 +1,4 @@
-# Eyechecker ( Always Be Improved XD )
+# Eyechecker ( Always Being Improved XD )
 ![EyeChecker](https://raw.githubusercontent.com/yuchenlichuck/EyeChecker/master/icon.ico)
 ## What is Eyechecker?
 Image segmentation of corneal ulceration using machine learning methods.
@@ -36,5 +36,5 @@ Image segmentation of corneal ulceration using machine learning methods.
 > * Li Yuchen
 > * Email: liyc@mail.com
 > * Majoring in Computer Science and Engineering
-> * Sophomore, Southern University of Science and Technology (SUSTech), Living in Shenzhen
+> * Junior, Southern University of Science and Technology (SUSTech), Living in Shenzhen
 > * Lab Member, Doing Computer Vision & Medical Image Processing Using Deep Learning methods
