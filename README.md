@@ -31,6 +31,16 @@ Image segmentation of corneal ulceration using machine learning methods.
 *	接着根据所得类簇，更新类簇中心；然后继续计算各个数据对象到聚类中心的距离，把数据对象划分至距离其最近的聚类中心所在类簇中；
 *	接着根据所得类簇，继续更新类簇中心；……一直迭代，直到达到最大迭代次数T，或者两次迭代J的差值小于某一阈值时，迭代终止，得到最终聚类结果。
 
+
+* k in the k-means algorithm represents the number of clusters, means represents the mean of the data objects in the clusters
+* The k-means algorithm is a clustering algorithm based on partitioning. The distance is used as the standard for the similarity index between data objects, that is, the smaller the distance between data objects, the more likely they are replaced by the similarity. Class cluster.
+* The k-means algorithm takes distance as the standard of similarity index between data objects, and usually uses Euclidean distance to calculate the distance between data objects.
+* During the k-means algorithm clustering process, each time the cluster is repeated, the corresponding cluster center needs to be recalculated (updated): the mean value of all data objects in the corresponding cluster is the cluster center of the updated cluster.
+* What is the condition for k-means algorithm to iterate continuously to re-divide clusters, update cluster centers, and then terminate? In general, there are two methods to interrupt inheritance: one method is to set the number of iterations T, and when the Tth iteration is reached, the iteration is terminated, and the class cluster obtained at this time is the final clustering result;
+* The idea of k-means algorithm can be described as follows: first initialize the K cluster centers; then calculate the distance between each data object and the cluster center, and divide the data object into the cluster where the nearest cluster center is located;
+* Then update the cluster center according to the obtained clusters; then continue to calculate the distance from each data object to the cluster center, and divide the data object into the cluster where the nearest cluster center is located;
+* Subsequently, update the cluster center according to the obtained clusters; ... Repeat until the maximum number of iterations T is reached, or when the difference between the two repeated J is less than the minimum threshold, continue to terminate to obtain the final clustering result.
+
 ## About Author
 
 > * Li Yuchen
