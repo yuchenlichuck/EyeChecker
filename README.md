@@ -31,7 +31,7 @@ Image segmentation of corneal ulceration using machine learning methods.
 *   k-means算法思想可描述为：首先初始化K个类簇中心；然后计算各个数据对象到聚类中心的距离，把数据对象划分至距离其最近的聚类中心所在类簇中；
 *	接着根据所得类簇，更新类簇中心；然后继续计算各个数据对象到聚类中心的距离，把数据对象划分至距离其最近的聚类中心所在类簇中；
 *	接着根据所得类簇，继续更新类簇中心；……一直迭代，直到达到最大迭代次数T，或者两次迭代J的差值小于某一阈值时，迭代终止，得到最终聚类结果。
-[English]
+[ English ]
 * k in the k-means algorithm represents the number of clusters, means represents the mean of the data objects in the clusters
 * The k-means algorithm is a clustering algorithm based on partitioning. The distance is used as the standard for the similarity index between data objects, that is, the smaller the distance between data objects, the more likely they are replaced by the similarity. Class cluster.
 * The k-means algorithm takes distance as the standard of similarity index between data objects, and usually uses Euclidean distance to calculate the distance between data objects.
